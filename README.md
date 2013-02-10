@@ -1,4 +1,3 @@
-twig-module-for-kohana
+Twig Module For Kohana 3.3+
 ======================
 
-Twig Module For Kohana 3.3
