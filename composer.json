@@ -1,5 +1,5 @@
 {
-	"name": "waldson/twig-module-for-kohana",
+	"name": "waldson/twig",
 	"type": "kohana-module",
 	"description": "TWIG module for Kohana 3.3 to use twig templates as Kohana views seamlessly",
     "version": "0.1",
